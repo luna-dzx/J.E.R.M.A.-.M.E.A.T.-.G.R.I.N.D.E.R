@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/Monogame/MeatGrinder/MeatGrinder/Content/Rat Cursor/blackrat_alt.png</File>
+    <File>F:/Monogame/MeatGrinder/MeatGrinder/Content/Rat Cursor/blackrat_diag1.png</File>
+    <File>F:/Monogame/MeatGrinder/MeatGrinder/Content/Rat Cursor/blackrat_diag2.png</File>
+    <File>F:/Monogame/MeatGrinder/MeatGrinder/Content/Rat Cursor/blackrat_help.png</File>
+    <File>F:/Monogame/MeatGrinder/MeatGrinder/Content/Rat Cursor/blackrat_horz.png</File>
+    <File>F:/Monogame/MeatGrinder/MeatGrinder/Content/Rat Cursor/blackrat_link.png</File>
+    <File>F:/Monogame/MeatGrinder/MeatGrinder/Content/Rat Cursor/blackrat_move.png</File>
+    <File>F:/Monogame/MeatGrinder/MeatGrinder/Content/Rat Cursor/blackrat_no.png</File>
+    <File>F:/Monogame/MeatGrinder/MeatGrinder/Content/Rat Cursor/blackrat_norm.png</File>
+    <File>F:/Monogame/MeatGrinder/MeatGrinder/Content/Rat Cursor/blackrat_precise.png</File>
+    <File>F:/Monogame/MeatGrinder/MeatGrinder/Content/Rat Cursor/blackrat_text.png</File>
+    <File>F:/Monogame/MeatGrinder/MeatGrinder/Content/Rat Cursor/blackrat_vert.png</File>
+    <File>F:/Monogame/MeatGrinder/MeatGrinder/Content/Rat Cursor/blackrat_write.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
